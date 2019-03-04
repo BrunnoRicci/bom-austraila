@@ -13,14 +13,14 @@ for five cities:
 
 The cities are scored for the following attributes:
 - Number of sunny days
-- Maximum dayly temperatures
+- Maximum daily temperatures
 - Amount of clouds
 - Rainfall
 - Humidity 
-- Heat Index
+- Heat index
 - Wind velocity
 
-Cities are ranked for each of the categories and the simple scores of **0-4** were assinged.
+Cities are ranked for each of the categories and the simple scores of **0-4** were assigned.
 The final rankings are based on the sum of these scores.
 
 ## Results
