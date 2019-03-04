@@ -9,6 +9,16 @@ for five cities:
 - Perth
 - Sydney
 
+The cities are scored for the following attributes:
+1. Number of sunny days
+2. Maximum dayly temperatures
+3. Amount of clouds
+4. Rainfall
+5. Humidity 
+6. Heat Index
+7. Wind velocity
+
+
 
 
 
